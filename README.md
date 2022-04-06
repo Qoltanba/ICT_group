@@ -1,2 +1,2 @@
 # ICT_group
-Example for students
+Example for school
